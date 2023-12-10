@@ -3,7 +3,7 @@
 🚀 Currently, I'm soaring through the world of backend development, specializing in Java and the Spring Boot framework. My mission is to craft robust and scalable solutions that make a real impact.
 
 🔧 Tech Stack:
-   - Java | Spring Boot | Hibernate ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+   - Java | Spring Boot | Hibernate 
    - RESTful APIs | Microservices Architecture
    - Database: SQL | NoSQL
    - DevOps: Kubernetes | Git
