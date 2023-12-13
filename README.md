@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
    <a href="https://start.spring.io/" target="_blank">
-    <img src="![image](https://github.com/Poojanp-311/Poojanp-311/assets/71166838/482ee932-8d25-4b07-8f71-aa9bbf5e44be)
+    <img src="![image](https://github.com/Poojanp-311/Poojanp-311/assets/71166838/3b1be87b-f243-4290-8199-f29dc60c02e9)
 " alt="spring boot" width="40" height="40"/>  
    </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
