@@ -1,4 +1,4 @@
-## 👋 Hello, World! I'm Pooja, a passionate Java backend developer.
+## 👋 Hi, There! I'm Pooja, a passionate Java backend developer.
 
 🚀 Currently, I'm soaring through the world of backend development, specializing in Java and the Spring Boot framework. My mission is to craft robust and scalable solutions that make a real impact.
 
